@@ -3,7 +3,7 @@ Automatic backups All YOUR mysql Databases that create by bash script using cron
 # How to add to your Linux Server
 download file from web version this website, at Code > Download ZIP, using wget
 
-root@ServerDesktopLinux # wget https://github.com/l3modz/automatic_backup_YOUR_PROJECT_database_mysql.sh/archive/refs/heads/main.zip
+root@ServerDesktopLinux # wget https://github.com/l3modz/automatic_backup_ALL_YOUR_database_mysql.sh/archive/refs/heads/main.zip
 <br /><br />unzip it at /root or make own folder for automatic script
 <br />root@ServerDesktopLinux # unzip automatic_backup_YOUR_PROJECT_database_mysql.sh.zip
 
